@@ -13,6 +13,9 @@ Por que o Design Quips
 * Processos Ágeis vs Processos Prescritivos
 * XP e Scrum
 * O Processo utilizado na ZURB
+** O ambiente físico
+** As ferramentas
+** O processo
 
 ## Desenvolvimento Web com Ruby on Rails (23/12/2013)
 * A linguagem Ruby
@@ -28,20 +31,11 @@ Por que o Design Quips
 ## Modelagem inicial do projeto (13/1/2014)
 as informações que recebi antes de chegar lá e nas reuniões iniciais.
 
-## O ambiente de desenvolvimento (27/1/2014)
-falar sobre o ambiente físico da empresa (layout do ambiente de trabalho, equipamentos de hardware) e o ambiente tecnológico (arquitetura das aplicações e ferramentas de suporte utilizadas), explicando as motivações da empresa por trás dessas decisões.
-// Mover para referencial teórico
-## O processo de desenvolvimento (10/2/2014)
-falar sobre o processo: a estrutura típica de uma semana de trabalho, a interação entre o time, como o projeto evoluía, como o processo foi aperfeiçoado durante o desenvolvimento, e o processo de lançamento.
-// Isso deve ser falado em "Processos ágeis, O processo utilizado na ZURB"
-
-## Sprints de desenvolvimento
+## Etapas do desenvolvimento
 Falar sobre os planos de entrega, quantidade de ciclos de desenvolvimento, "atrasos"... ou seja, relate o seu trabalho de acordo com o processo da ZURB.
 
 ## Apresentção do sistema
 Mostre algumas telas e alguns códigos-fontes do projeto
-
- Uma reflexão sobre o processo utilizado
 
 # Considerações finais
 ## Conclusões
